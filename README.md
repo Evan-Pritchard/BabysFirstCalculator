@@ -1,4 +1,4 @@
-# BabysFirstCalculator
+# Baby's First Calculator
 ### My first calculator program using C++
 
 <!--
